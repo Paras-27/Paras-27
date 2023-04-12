@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&width=435&lines=Hi+there!++%F0%9F%91%80;I+am+Paras+Upadhyay.;Thanks+For+Stoping+by.+%E3%83%83)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&width=435&lines=Hi+there!++%F0%9F%91%80;I+am+Paras+Upadhyay.;Thanks+For+Stoping+By.+%E3%83%83)](https://git.io/typing-svg)
 <h3 align="center">A passionate Mern-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras-27&label=Profile%20views&color=0e75b6&style=flat" alt="paras-27" /> </p>
@@ -8,8 +8,6 @@
 - 👨‍💻 All of my projects are available at [https://paras27-portfolio.netlify.app/](https://paras27-portfolio.netlify.app/)
 
 - 📫 How to reach me **parasbupadhyay2003@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TuSluC51ur2MPYfejNnDLH1K2Uh1JT7F/view?usp=share_link](https://drive.google.com/file/d/1TuSluC51ur2MPYfejNnDLH1K2Uh1JT7F/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
